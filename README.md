@@ -3,7 +3,7 @@
 ### 🏢 Internship Project – Inlighn Tech  
 **Intern:** Sabnam Banu  
 **College:** UPES, Dehradun – Department of Computer Science & Engineering  
-**Mentor:** Mr. Raishav Patel  
+**Mentor:** Mr. Rishav Patel  
 **Duration:** 10th September 2025 – 10th November 2025  
 **Email:** sabnam11sab@gmail.com  
 
@@ -87,4 +87,5 @@ The goal was to evaluate how effectively individuals recognize suspicious commun
 ---
 
 ## 📂 Folder Structure
+
 
